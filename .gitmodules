@@ -1,0 +1,3 @@
+[submodule "sans-car/sans-car-bot"]
+	path = sans-car/sans-car-bot
+	url = git@github.com:tristan-zander/sans-car-bot.git
