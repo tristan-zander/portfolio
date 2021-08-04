@@ -10,3 +10,6 @@
 [submodule "sans-car-old"]
 	path = sans-car-old
 	url = git@github.com:tristan-zander/sans-car-bot.git
+[submodule "fruit-pong"]
+	path = fruit-pong
+	url = git@github.com:BCECHS-Coding-Club/fruit-pong.git
