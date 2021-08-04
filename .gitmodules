@@ -1,3 +1,6 @@
 [submodule "sans-car/sans-car-bot"]
 	path = sans-car/sans-car-bot
 	url = git@github.com:tristan-zander/sans-car-bot.git
+[submodule "advent_of_code_2020"]
+	path = advent_of_code_2020
+	url = git@github.com:tristan-zander/advent_of_code_2020.git
